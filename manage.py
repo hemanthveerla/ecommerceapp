@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+hemanth added content
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djecommerce.settings.development')
     try:
